@@ -1,0 +1,27 @@
+.container{
+    margin-bottom: 30px;
+}
+input{
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 15px;
+}
+button{
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 15px;
+}
+.user-list{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+.user-container{
+    line-height: 5px;
+}
+.user-avatar{
+    border-radius: 50%;
+}
+
